@@ -1,8 +1,8 @@
-Used in Google Apps Script
+**Used in Google Apps Script**
 
-Need to implement Microsoft To Do API access token
+*Requires Microsoft Graphs API Access Token*
 
-*Putting this here so when I ask Mr. Crow for help I don't forget what I did:
+**Function Documentation**
 
 getAllGoogleClassroomAssignments()
     - Fetches assignments using a specified email
@@ -24,4 +24,4 @@ syncGoogleClassroomToMicrosoftToDo()
 Synchronizes using syncGoogleClassroomToMicrosoftToDo
 
 
-- Ask how to get a microsoft access token
+
